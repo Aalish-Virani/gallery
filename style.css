@@ -85,7 +85,7 @@ body{
     .right-gallery{
         width: 100%;
         padding-block: 20px;
-        padding inline:1%;
+/*         padding inline:1%; */
         grid-auto-rows: 150px;
 
     }
